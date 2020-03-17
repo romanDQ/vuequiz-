@@ -129,4 +129,12 @@ export default {
   .incorrect{
     background-color: red;
   }
+
+  .question-box-container{
+    margin-top: 50px;
+  }
+
+  .disabled{
+    cursor: not-allowed;
+  }
 </style>
